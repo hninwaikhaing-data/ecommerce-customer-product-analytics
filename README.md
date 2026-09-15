@@ -169,7 +169,7 @@ customer-product-performance-analytics/
 │   └── README.md                 # Dataset notes or source information
 ├── powerbi/
 │   └── Customer_Product_Performance_Analytics.pbix
-├── images/
+├── image/
 ├── ├── project_information.png
 │   ├── customer_segmentation_analysis.png
 │   ├── product_performance_analysis.png
@@ -207,9 +207,9 @@ Add your exported dashboard screenshots to the `images/` folder and
 update the paths below if necessary.
 
 ``` markdown
-![Customer Segmentation & Performance Analytics](images/customer_segmentation_analysis.png)
+![Customer Segmentation & Performance Analytics](image/customer_segmentation_analysis.png)
 
-![Product Performance, Profitability & Trend Analysis](images/product_performance_analysis.png)
+![Product Performance, Profitability & Trend Analysis](image/product_performance_analysis.png)
 ```
 
 ## Author
