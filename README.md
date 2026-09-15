@@ -1,4 +1,4 @@
-# Customer & Product Performance Analytics Dashboard \| E-commerce
+# Customer Segmentation  & Product Performance Analytics Dashboard \| E-commerce
 
 ## Project Overview
 
